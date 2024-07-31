@@ -6,3 +6,9 @@
 * Foucs must constrained within the dialog
 * Fcous must returned to the original trigger/logical locaton after closing dialog
   
+### Terminologies
+* role=”dialog”: Identifies the container as dialog
+* aria-labelledby=”id”: Provides accessible name for dialog referenced by id with title of modal
+* aria-describedby=”id”: Provides accessible description of modal
+* aria-modal=”true” Hide inert from screen reader.
+* aria-hidden=”true” Hide the inert from screen reader.
